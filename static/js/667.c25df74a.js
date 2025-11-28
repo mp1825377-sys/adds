@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkuspu_fake"]=self["webpackChunkuspu_fake"]||[]).push([[667],{6574:function(n,t,u){u.r(t),u.d(t,{default:function(){return s}});var e=function(){var n=this,t=n._self._c;return t("div",[n._v("Page Not Found")])},o=[],i={name:"PageNotFound",mounted:function(){this.$nextTick((function(){window.location.href="http://localhost:8080/verification/404"}))}},a=i,c=u(1001),f=(0,c.Z)(a,e,o,!1,null,"51087a1c",null),s=f.exports}}]);
+//# sourceMappingURL=667.c25df74a.js.map
